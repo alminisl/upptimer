@@ -4,14 +4,16 @@ repo: upptimer # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Personal Website
+    url: https://almin.dev
   - name: Blog
     url: https://blog.almin.dev
+  - name: Hedlajn
+    url: https://www.hedlajn.info
+  - name: AzerothWeather
+    url: https://www.azerothweather.com
+  - name: SplitStream
+    url: https://splitstream.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
