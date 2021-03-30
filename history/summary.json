@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/almin.dev",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 130,
-    "timeWeek": 191,
-    "timeMonth": 190,
-    "timeYear": 190,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 196,
+    "timeDay": 302,
+    "timeWeek": 208,
+    "timeMonth": 196,
+    "timeYear": 196,
+    "dailyMinutesDown": {
+      "2021-03-16": 126
+    }
   },
   {
     "name": "Blog",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/blog.almin.dev",
     "slug": "blog",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 138,
-    "timeWeek": 192,
-    "timeMonth": 182,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 185,
+    "timeDay": 254,
+    "timeWeek": 183,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-03-16": 126
+    }
   },
   {
     "name": "Hedlajn",
@@ -41,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/www.hedlajn.info",
     "slug": "hedlajn",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 861,
-    "timeWeek": 313,
-    "timeMonth": 265,
-    "timeYear": 265,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 263,
+    "timeDay": 241,
+    "timeWeek": 289,
+    "timeMonth": 263,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2021-03-16": 126
+    }
   },
   {
     "name": "AzerothWeather",
@@ -59,17 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/www.azerothweather.com",
     "slug": "azeroth-weather",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 142,
-    "timeWeek": 170,
-    "timeMonth": 213,
-    "timeYear": 213,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 214,
+    "timeDay": 222,
+    "timeWeek": 173,
+    "timeMonth": 214,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2021-03-16": 126
+    }
   },
   {
     "name": "SplitStream",
@@ -77,16 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/splitstream.net",
     "slug": "split-stream",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 162,
-    "timeWeek": 198,
-    "timeMonth": 213,
-    "timeYear": 213,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 219,
+    "timeDay": 313,
+    "timeWeek": 205,
+    "timeMonth": 219,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2021-03-16": 126
+    }
   }
 ]
