@@ -1,7 +1,7 @@
 url: https://www.hedlajn.info
-status: up
-code: 200
-responseTime: 1512
-lastUpdated: 2022-09-18T23:09:45.891Z
+status: down
+code: 500
+responseTime: 3101
+lastUpdated: 2022-09-18T23:40:49.554Z
 startTime: Tue Mar 16 2021 10:25:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
