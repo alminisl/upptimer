@@ -76,17 +76,17 @@
     "url": "https://splitstream.net",
     "icon": "https://favicons.githubusercontent.com/splitstream.net",
     "slug": "split-stream",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 1796,
-    "timeWeek": 1280,
-    "timeMonth": 773,
-    "timeYear": 362,
+    "time": 360,
+    "timeDay": 3236,
+    "timeWeek": 1904,
+    "timeMonth": 1015,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   }
 ]
