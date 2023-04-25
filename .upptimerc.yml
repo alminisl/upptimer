@@ -14,6 +14,8 @@ sites:
     url: https://www.azerothweather.com
   - name: SplitStream
     url: https://splitstream.net
+  - name: Blind date with a Book
+    url: https://blinddatewithabook.onrender.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
